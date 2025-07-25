@@ -63,7 +63,7 @@ Faculty of Computers and Information, South Valley University – Qena
 
 ## 📄 CV
 
-📥 [Download My CV (PDF)](https://github.com/YahyaSaad1/YahyaSaad1/raw/main/YahyaSaad-CV.pdf)
+📥 [Download My CV (PDF)](https://github.com/YahyaSaad1/YahyaSaad1/raw/main/YahyaSaad_CV.pdf)
 
 ---
 
